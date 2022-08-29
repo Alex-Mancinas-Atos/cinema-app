@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cinema-app-106f9": {
+      "hosting": {
+        "cinema-app": [
+          "cinema-app-106f9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cinema-app-106f9"
+  }
+}
